@@ -41,7 +41,7 @@ LOG_CHANNEL=-1001234567890
 ### 🧾 License 
 
 <a href="./LICENSE" target="_blank">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative" width="200" height="38.5" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge&logo=opensourceinitiative" width="200" height="38.5" alt="License: MIT" />
 </a>
 
 ---
