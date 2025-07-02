@@ -39,10 +39,9 @@ LOG_CHANNEL=-1001234567890
 
 <p align="center">
   <a href="https://github.com/pykinsu">
-    <img src="https://img.shields.io/badge/Follow%20Me-on%20GitHub-black?style=for-the-badge&logo=github"
-width="200" height="38.5"alt="Follow Me"/>
+    <img src="https://img.shields.io/badge/Follow%20Me-on%20GitHub-black?style=for-the-badge&logo=github" width="200"  height="38.5" alt="Follow Me"/>
   </a>
-  <a href="https://github.com/pykinsu/movies-bot/fork">
+  <a href="https://github.com/pyKinsu/Movies-Bot/fork">
     <img src="https://img.shields.io/badge/Fork-This%20Repo-blue?style=for-the-badge&logo=github" alt="Fork"/>
   </a>
 </p>
