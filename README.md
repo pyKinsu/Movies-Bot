@@ -32,7 +32,7 @@ LOG_CHANNEL=-1001234567890
 ### Follow Me 
 
 <a href="https://github.com/pykinsu" target="_blank">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=github" width="200" height="38.5" alt=" Follow Kinsu" />
+  <img src="https://img.shields.io/badge/Follow-Kinsu-yellow.svg?style=for-the-badge&logo=github" width="200" height="38.5" alt=" Follow Kinsu" />
 </a>
 
 ---
